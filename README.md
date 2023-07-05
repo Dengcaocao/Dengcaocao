@@ -1,4 +1,11 @@
-### Hi there 👋
+### 👋勒是雾都(重庆)，Welcome to my Github Profile!
+
+邓草草，一名前端开发者，目前在上海。
+
+- 👨🏻‍💻 热爱探寻前端任何技术；
+
+技术栈：
+
 
 <!--
 **Dengcaocao/Dengcaocao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
