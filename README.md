@@ -1,4 +1,4 @@
-### 👋勒是雾都(重庆)，Welcome to my Github Profile!
+### 👋 Welcome to my Github Profile！勒是雾都(重庆)
 
 邓草草，一名前端开发者，目前在上海。
 
