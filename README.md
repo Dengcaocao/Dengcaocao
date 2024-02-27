@@ -2,11 +2,7 @@
 
 邓草草，一名前端开发者，有4年的开发经验，目前生活在上海。
 
-- 👨🏻‍💻 热爱探寻前端任何技术；
-
-- 💬 欢迎进行技术交流；
-
-技术栈：
+#### Skill
 
 <code><img src="css.png" width="22" /></code>
 <code><img src="javascript.png" width="22" /></code>
@@ -16,9 +12,9 @@
 <code><img src="webpack.png" width="22" /></code>
 <code><img src="nodejs.png" width="22" /></code>
 
-个人项目：
+#### Project
 
-- 在线白板<a href="https://dengcaocao.github.io/wacom">[webox](https://dengcaocao.github.io/wacom)</a>
+- 在线白板<a href="https://dengcaocao.github.io/wacom">https://dengcaocao.github.io/wacom</a>
 
 <!--
 **Dengcaocao/Dengcaocao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
